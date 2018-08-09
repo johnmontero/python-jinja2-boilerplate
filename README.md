@@ -42,14 +42,6 @@ Ejecutar main.py
 (venv) [root@594ea994b77f]/app# python main.py -f /test/app/report.json
 ```
 
-Conexion Base de datos:
------------------------
-En el archivo lib/config.py
-```console
-  "templates": "./templates"
-```
-
-
 Estructura del project
 ======================
 
